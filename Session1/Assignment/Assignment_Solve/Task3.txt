@@ -1,0 +1,16 @@
+Q1) هل ما يتم كتابته داخل ال Head يظهر داخل الصفحة أم لا؟
+
+Ans) No, the content inside the <head> tag does not appear directly on the webpage. Instead, it contains metadata, page titles, links to stylesheets (CSS), and scripts that tell the browser how to handle and load the page. 
+<<<<<(The only exception is the <title> which appears in the browser tab)>>>>>
+
+Q2) هل عنصر Title له قفلة أم لا ؟
+
+Ans) Yes, <title> Page Tiltle </title>
+
+Q3) هل عنصر Meta له قفلة أم لا ؟
+
+Ans) No, <meta >
+
+Q4) هل ما يتم وضعه داخل ال Description في عنصر ال Meta يظهر في الصفحة أم لا ؟
+
+Ans) No, the content inside the meta description does not appear directly on the webpage itself. Instead, it is used by search engines (like Google) to display a short summary of the page underneath the title in search results.

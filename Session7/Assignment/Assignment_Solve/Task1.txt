@@ -1,0 +1,52 @@
+Q1) ما هو العنصر المناسب لوضعه داخل النموذج لإرسال البيانات عند الضغط عليه ؟
+
+Ans: 
+
+=> <input type="submit" value="Submit">
+=> <button type="submit"> Submit </button>
+
+Q2) ما هو العنصر المناسب ليكون عنوان للصفحة كاملة؟
+
+Ans:
+
+=> if him mean it does't appear at content <title> </title>
+=> if him mean it is part of the content <h1> </h1>
+
+Q3) ما هو العنصر المناسب ليكون عنوان لقسم داخل الصفحة؟
+
+Ans:
+
+=> <h2 to 6> </h2..6>
+
+Q4) ما هو العنصر المناسب ليحتوي على فقرة نصية؟
+
+Ans:
+
+=> <p> </p>
+
+Q5) كيف تحدد لغة المحتوى الخاص بصفحتك. يمكنك كتابة العنصر الكامل مع ال Attributes الخاصة بتحديد اللغة
+
+Ans:
+
+=> if want to determine the lang of the whole page <html lang="ar">...</html>
+=> if want to determine the lang of specific element you can <p lang="ar"> </p>
+
+Q6) في عالم ال Accessibility هل الأفضل أن أكتب10 – 20أم10 To 20
+
+Ans:
+
+=> 10 to 20 is better 
+
+Q7) إذا كان لديك عنصر Div وتريد الوصول إليه عن الطريق الضغط على ال Tab Button ماذا سوف تفعل في العنصر ؟
+
+Ans: 
+
+=> tabindex 
+
+_ex_: <div tabindex="0">...</div>
+
+Q8) ماذا تعني كلمة ARIA 
+
+Ans: 
+
+=> Accessible Rich Internet Applications

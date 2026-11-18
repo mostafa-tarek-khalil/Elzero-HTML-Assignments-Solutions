@@ -1,0 +1,15 @@
+Header        Exist
+Nav           Exist
+Main          Exist
+Aside         Exist
+Picture       Exist
+Figure        Exist
+Footer        Exist
+FigCaption    Exist
+Section       Exist
+Command       Doesn't Exist
+Ruby          Exist
+Data          Exist
+Article       Exist
+Install       Doesn't Exist
+Text          Doesn't Exist

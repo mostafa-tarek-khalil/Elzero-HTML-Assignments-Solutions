@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="This is page description">
+    </head>
+    <body>
+        <form action="test.py" method="POST">
+            <label for="username">Username</label> <br>
+            <input type="text" id="username" required placeholder="Enter your username" name="username">
+            <hr>
+            <label for="pass">Password</label> <br>
+            <input type="password" id="pass" placeholder="Enter your password" name="password">
+            <hr>
+            <label for="phone">Mobile</label> <br>
+            <input type="tel" id="phone" placeholder="Enter your phone number" name="phone">
+            <hr>
+            <label for="email">Email</label> <br>
+            <input type="email" id="email" required placeholder="Enter your email" name="email">
+            <hr>
+            <label for="sub">Subject</label> <br>
+            <input type="text" id="sub" placeholder="Enter your subject" name="subject">
+            <hr>
+            <input type="text" value="10" hidden>
+            <input type="reset" value="Empty Form">
+            <input type="submit" value="Send Data">
+        </form>
+    </body>
+</html>

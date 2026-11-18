@@ -1,0 +1,2 @@
+No, all appear as the same thing
+spaces doesn't effect (White-space Collapsing)

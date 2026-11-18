@@ -1,0 +1,5 @@
+HTML: HyperText Markup Language 
+
+It's a Markup language "not programming language" used to structure and build the foundation of web pages.
+
+Why isn't it a programming language? Because it cannot perform any mathematical operations, nor does it have programming logic like loops, functions, or conditional statements (if/else).
