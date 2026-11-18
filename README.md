@@ -2,6 +2,10 @@
 
 A structured repository containing my personal solutions to the HTML course assignments from [Elzero Web School](https://elzero.org/).
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
 This repository covers all **7 course sessions**, including original session links, assignment requirements, practical HTML implementations, theoretical answers, and a detailed learning guide.
 
 ## 📚 Course Information
