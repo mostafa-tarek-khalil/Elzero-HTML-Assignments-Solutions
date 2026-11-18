@@ -1,8 +1,8 @@
-# HTML Learning Journey
+# Elzero HTML Course – Assignments & Solutions
 
-A structured learning repository documenting my journey through HTML using [Elzero Web School](https://elzero.org/).
+A structured repository containing my personal solutions to the HTML course assignments from [Elzero Web School](https://elzero.org/).
 
-This repository contains the session materials, assignments, personal solutions, and detailed visual explanations for the HTML course.
+This repository documents all 7 course sessions, including original session links, assignments, practical solutions, theoretical answers, and detailed visual explanations.
 
 ## 📚 Course Resources
 
@@ -13,10 +13,10 @@ This repository contains the session materials, assignments, personal solutions,
 ## 📂 Repository Structure
 
 ```text
-HTML-Learning-Journey/
+Elzero-HTML-Assignments-Solutions/
 │
 ├── README.md
-├── HTML_Sessions_Explanation.pdf
+├── HTML_Complete_Sessions_Guide.txt
 │
 ├── Session1/
 │   ├── Session_Link.txt
@@ -45,7 +45,7 @@ HTML-Learning-Journey/
 
 ## 📖 Session Explanations
 
-The [`HTML_Sessions_Explanation.pdf`](HTML_Sessions_Explanation.pdf) file contains detailed explanations of the seven course sessions.
+The `HTML_Complete_Sessions_Guide.txt` file contains detailed explanations of the seven course sessions.
 
 It is designed as a visual learning resource, featuring:
 
@@ -54,14 +54,14 @@ It is designed as a visual learning resource, featuring:
 - Practical examples.
 - Additional clarification of important topics.
 
-**Note:** This PDF is dedicated to explaining the sessions. It is separate from the original course materials and assignment solutions.
+**Note:** This document focuses on explaining the sessions and is separate from the original course assignments and their solutions.
 
 ## 📝 Assignments & Solutions
 
-Each session includes its own assignment folder containing:
+Each session contains its own assignment folder with:
 
 - `Assignment_Link.txt`: The original assignment link.
-- `Assignment_Solve/`: My solutions to the assignment tasks.
+- `Assignment_Solve/`: My personal solutions to the assignment tasks.
 
 Solutions are organized according to their file types:
 
@@ -69,7 +69,7 @@ Solutions are organized according to their file types:
 - `.txt` – Theoretical questions and written answers.
 - Other supporting files – Images, audio, and video resources when required.
 
-## 🎯 Goals
+## 🎯 Learning Goals
 
 - Build a strong understanding of HTML fundamentals.
 - Practice writing clean and semantic HTML.
