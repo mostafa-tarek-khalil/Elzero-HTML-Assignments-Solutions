@@ -24,7 +24,7 @@ This repository covers all **7 course sessions**, including original session lin
 Elzero-HTML-Assignments-Solutions/
 │
 ├── README.md
-├── HTML_Complete_Sessions_Guide.pdf
+├── HTML_Complete_Sessions_Guide.pdf "⚙️In Progress"
 │
 ├── Session1/
 │   ├── Session_Link.txt
@@ -61,7 +61,7 @@ Elzero-HTML-Assignments-Solutions/
 
 ## 📖 Complete Sessions Guide
 
-**`HTML_Complete_Sessions_Guide.pdf`**
+**`HTML_Complete_Sessions_Guide.pdf`** "⚙️In Progress"
 
 A separate learning resource covering the concepts explained throughout the seven HTML sessions.
 
