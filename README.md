@@ -2,13 +2,17 @@
 
 A structured repository containing my personal solutions to the HTML course assignments from [Elzero Web School](https://elzero.org/).
 
-This repository documents all 7 course sessions, including original session links, assignments, practical solutions, theoretical answers, and detailed visual explanations.
+This repository covers all **7 course sessions**, including original session links, assignment requirements, practical HTML implementations, theoretical answers, and a detailed learning guide.
 
-## 📚 Course Resources
+## 📚 Course Information
 
-- **Course:** HTML
-- **Learning Source:** Elzero Web School
-- **Total Sessions:** 7
+| Detail | Description |
+|---|---|
+| Course | HTML |
+| Learning Source | [Elzero Web School](https://elzero.org/) |
+| Total Sessions | 7 |
+| Repository Type | Personal Learning & Assignment Solutions |
+| Status | Completed |
 
 ## 📂 Repository Structure
 
@@ -16,16 +20,24 @@ This repository documents all 7 course sessions, including original session link
 Elzero-HTML-Assignments-Solutions/
 │
 ├── README.md
-├── HTML_Complete_Sessions_Guide.txt
+├── HTML_Complete_Sessions_Guide.pdf
 │
 ├── Session1/
 │   ├── Session_Link.txt
 │   └── Assignment/
 │       ├── Assignment_Link.txt
 │       └── Assignment_Solve/
+│           ├── Task1.txt
+│           ├── task2.html
+│           ├── Task3.txt
+│           └── Task4.html
 │
 ├── Session2/
-│   └── ...
+│   ├── Session_Link.txt
+│   └── Assignment/
+│       ├── Assignment_Link.txt
+│       └── Assignment_Solve/
+│           └── ...
 │
 ├── Session3/
 │   └── ...
@@ -43,47 +55,61 @@ Elzero-HTML-Assignments-Solutions/
     └── ...
 ```
 
-## 📖 Session Explanations
+## 📖 Complete Sessions Guide
 
-The `HTML_Complete_Sessions_Guide.txt` file contains detailed explanations of the seven course sessions.
+**`HTML_Complete_Sessions_Guide.pdf`**
 
-It is designed as a visual learning resource, featuring:
+A separate learning resource covering the concepts explained throughout the seven HTML sessions.
 
-- Detailed explanations of the covered concepts.
-- Illustrations and diagrams.
-- Practical examples.
+The guide is designed to provide a deeper understanding through:
+
+- Detailed explanations of HTML concepts and elements.
+- Visual illustrations and diagrams.
+- Practical examples and code snippets.
 - Additional clarification of important topics.
+- Organized explanations for easier revision and reference.
 
-**Note:** This document focuses on explaining the sessions and is separate from the original course assignments and their solutions.
+**Note:** This guide explains the course material. It is separate from the original assignments and my personal solutions.
 
 ## 📝 Assignments & Solutions
 
-Each session contains its own assignment folder with:
+Each session has its own directory containing the original session and assignment links, along with my solutions.
 
-- `Assignment_Link.txt`: The original assignment link.
-- `Assignment_Solve/`: My personal solutions to the assignment tasks.
+**Folder contents:**
 
-Solutions are organized according to their file types:
+- `Session_Link.txt` – Link to the original course session.
+- `Assignment_Link.txt` – Link to the original assignment.
+- `Assignment_Solve/` – Personal solutions to the assignment tasks.
 
-- `.html` – Practical HTML implementations.
-- `.txt` – Theoretical questions and written answers.
-- Other supporting files – Images, audio, and video resources when required.
+**Solution file types:**
 
-## 🎯 Learning Goals
+| Extension | Purpose |
+|---|---|
+| `.html` | Practical HTML implementations |
+| `.txt` | Theoretical questions and written answers |
+| Other media files | Supporting images, audio, and video when required |
 
-- Build a strong understanding of HTML fundamentals.
+All solutions are organized by session and task to make navigation and reference easier.
+
+## 🎯 Learning Objectives
+
+Through this course and its assignments, I aimed to:
+
+- Build a solid understanding of HTML fundamentals.
 - Practice writing clean and semantic HTML.
 - Understand the purpose of different HTML elements and attributes.
+- Work with forms, tables, lists, media, and other HTML features.
 - Strengthen practical problem-solving skills.
-- Prepare for the next stage of frontend development: CSS.
+- Build a foundation for the next stage of frontend development: CSS.
 
-## 🚀 Progress
+## ⚠️ Disclaimer
 
-- [x] HTML Course – 7 Sessions Completed
-- [x] HTML Assignments – Completed
-- [ ] Review and improve practical implementations
-- [ ] Move on to CSS
+This repository contains my personal learning notes and solutions. It is not an official repository of Elzero Web School.
+
+The course content and original assignments belong to their respective owners. All solutions are shared for educational and learning purposes.
 
 ---
 
 **Learning by understanding, practicing, and building.**
+
+**Made by Eng. Mostafa Tarek**
